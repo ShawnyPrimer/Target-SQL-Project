@@ -1,6 +1,6 @@
-# Superstore SQL Project
+# Target SQL Project
 
-This project uses SQL to explore a sample retail dataset ("Superstore") 
+This project uses SQL to explore a sample retail dataset ("Target") 
 containing 15 items across four categories: Kitchen Supplies, Electronics, 
 Furnishings, and Appliances. Each item includes its name, category, price, 
 stock quantity, and average customer rating.
