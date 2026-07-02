@@ -1,6 +1,6 @@
 -- Prompt 1: Order items by price
 SELECT * 
-FROM target 
+FROM target
 ORDER BY price;
 -- Cozy Throw Blanket is the cheapest item ($24.99); Smart LED TV is the most expensive ($549.00).
 
