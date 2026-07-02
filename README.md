@@ -1,4 +1,3 @@
-# Supermarket-SQL-Project
 # Superstore SQL Project
 
 This project uses SQL to explore a sample retail dataset ("Superstore") 
