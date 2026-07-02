@@ -26,18 +26,18 @@ VALUES
     (15, 'Cozy Throw Blanket', 'Furnishings', 24.99, 100, 4.2);
 
 
--- Prompt 1: Order items by price
+-- Query 1: Order items by price
 SELECT * 
 FROM target
 ORDER BY price;
 -- Cozy Throw Blanket is the cheapest item ($24.99); Smart LED TV is the most expensive ($549.00).
 
--- Prompt 2: A statistic about item prices (average price)
+-- Query 2: A statistic about item prices (average price)
 SELECT AVG(price) 
 FROM target;
 -- The average price across all items is $142.35.
 
--- Prompt 3: A statistic about Kitchen Supplies prices (average price)
+-- Query 3: A statistic about Kitchen Supplies prices (average price)
 SELECT AVG(price) 
 FROM target
 WHERE category = 'Kitchen Supplies';
