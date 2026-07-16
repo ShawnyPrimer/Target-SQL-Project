@@ -5,7 +5,7 @@ containing 15 items across four categories: Kitchen Supplies, Electronics,
 Furnishings, and Appliances. Each item includes its name, category, price, 
 stock quantity, and average customer rating.
 
-The goal of this project was to practice core SQL skills: sorting, 
+The goal of this project was to practice core SQL skills — sorting, 
 filtering, aggregate functions, and grouping — by answering real business 
 questions about the data, such as:
 
